@@ -31,6 +31,7 @@ struct FooterView: View {
                 .layoutPriority(1)
             
         } //VStack
+        .padding(.vertical, 10)
     }
 }
 
