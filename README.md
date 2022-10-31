@@ -3,15 +3,15 @@ Repo for creating an app from a Udemy course
 
 Screenshots:
 
-![1](https://user-images.githubusercontent.com/95411693/199079514-7c8ed079-1a70-4658-9fe5-2e75542fc82b.png)
+![1](https://user-images.githubusercontent.com/95411693/199080269-51f6bb89-4d9e-4c27-afa4-62bafeb0cd5e.png)
 
-![2](https://user-images.githubusercontent.com/95411693/199079547-89ca21ba-aa89-4a79-ad5d-ccaed0b99a13.png)
+![2](https://user-images.githubusercontent.com/95411693/199080279-6351ba4e-4065-4e9c-9877-bbef661bdb1c.png)
 
-![3](https://user-images.githubusercontent.com/95411693/199079563-6465fa46-437c-47b5-bf5d-01637fbe0ab0.png)
+![3](https://user-images.githubusercontent.com/95411693/199080290-9b1b3ede-b250-44ff-9aba-53dcea0c9a84.png)
 
-![4](https://user-images.githubusercontent.com/95411693/199079575-af238519-a758-4516-8511-0a3e426ce778.png)
+![4](https://user-images.githubusercontent.com/95411693/199080304-af6a7e95-3add-45db-a049-d6cae771ab1a.png)
 
-![5](https://user-images.githubusercontent.com/95411693/199079588-e83026e7-845c-4989-b2ad-47c457def266.png)
+![5](https://user-images.githubusercontent.com/95411693/199080319-a46a684b-e5aa-4ce2-99e4-78fcdf080805.png)
 
 
 Stack:
